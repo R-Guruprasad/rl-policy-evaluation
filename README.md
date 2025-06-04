@@ -20,7 +20,7 @@ def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
     return V
 ```
 ## OUTPUT:
-![Screenshot 2025-04-07 094301](https://github.com/user-attachments/assets/458412a6-da36-4f39-90f3-d50e41efea5f)
+![image](https://github.com/user-attachments/assets/7d20c191-9faa-42a7-87df-279e52bcb568)
 ![Screenshot 2025-04-07 094450](https://github.com/user-attachments/assets/5c3c5d81-36a6-482e-9042-15da5057480c)
 ## State vaue function:
 ![Screenshot 2025-04-07 094554](https://github.com/user-attachments/assets/f101f789-495c-452f-b5d6-d5d4791df51e)
